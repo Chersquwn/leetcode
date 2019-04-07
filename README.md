@@ -975,7 +975,7 @@ LeetCode solutions with JavaScript
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |  |  | Easy | 
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |  |  | Medium | 
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  |  | Medium | 
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  |  | Hard | 
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  | [JavaScript](./algorithms/Median%20of%20Two%20Sorted%20Arrays/index.js) | Hard | 
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  | [JavaScript](./algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | Medium | 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |  | [JavaScript](./algorithms/Add%20Two%20Numbers/index.js) | Medium | 
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  | [JavaScript](./algorithms/Two%20Sum/index.js) | Easy | 
