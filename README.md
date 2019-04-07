@@ -6,6 +6,10 @@ LeetCode solutions with JavaScript
 
 | # | Title | Explanation | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 1081 | [Video Stitching](https://leetcode.com/problems/video-stitching/) |  |  | Medium | 
+| 1080 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) |  |  | Medium | 
+| 1079 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) |  |  | Easy | 
+| 1078 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) |  |  | Easy | 
 | 1073 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) |  |  | Medium | 
 | 1072 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) |  |  | Medium | 
 | 1071 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) |  |  | Easy | 
@@ -972,6 +976,6 @@ LeetCode solutions with JavaScript
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |  |  | Medium | 
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  |  | Medium | 
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  |  | Hard | 
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  |  | Medium | 
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  | [JavaScript](./algorithms/Longest%20Substring%20Without%20Repeating%20Characters/index.js) | Medium | 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |  | [JavaScript](./algorithms/Add%20Two%20Numbers/index.js) | Medium | 
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  | [JavaScript](./algorithms/Two%20Sum/index.js) | Easy | 
