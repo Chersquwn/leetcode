@@ -970,7 +970,7 @@ LeetCode solutions with JavaScript
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |  |  | Medium | 
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |  |  | Medium | 
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) |  |  | Hard | 
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |  |  | Easy | 
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |  | [JavaScript](./algorithms/Palindrome%20Number/index.js) | Easy | 
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |  |  | Medium | 
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |  | [JavaScript](./algorithms/Reverse%20Integer/index.js) | Easy | 
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |  |  | Medium | 
