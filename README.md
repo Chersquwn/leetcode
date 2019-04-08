@@ -972,7 +972,7 @@ LeetCode solutions with JavaScript
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) |  |  | Hard | 
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |  |  | Easy | 
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |  |  | Medium | 
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |  |  | Easy | 
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |  | [JavaScript](./algorithms/Reverse%20Integer/index.js) | Easy | 
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |  |  | Medium | 
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  |  | Medium | 
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |  | [JavaScript](./algorithms/Median%20of%20Two%20Sorted%20Arrays/index.js) | Hard | 
