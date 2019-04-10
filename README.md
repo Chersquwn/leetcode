@@ -959,7 +959,7 @@ LeetCode solutions with JavaScript
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |  |  | Hard | 
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |  |  | Medium | 
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  |  | Easy | 
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  |  | Easy | 
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  | [JavaScript](./algorithms/Valid%20Parentheses/index.js) | Easy | 
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  |  | Medium | 
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) |  |  | Medium | 
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  |  | Medium | 
