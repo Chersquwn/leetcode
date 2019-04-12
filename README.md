@@ -952,8 +952,8 @@ LeetCode solutions with JavaScript
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |  |  | Hard | 
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |  |  | Medium | 
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |  |  | Easy | 
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  |  | Easy | 
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  |  | Easy | 
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  | [JavaScript](./algorithms/Remove%20Element/index.js) | Easy | 
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  | [JavaScript](./algorithms/Remove%20Duplicates%20from%20Sorted%20Array/index.js) | Easy | 
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  | Hard | 
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  |  | Medium | 
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |  |  | Hard | 
