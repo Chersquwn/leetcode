@@ -951,7 +951,7 @@ LeetCode solutions with JavaScript
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) |  |  | Medium | 
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |  |  | Hard | 
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |  |  | Medium | 
-| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |  |  | Easy | 
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |  | [JavaScript](./algorithms/Implement%20strStr()/index.js) | Easy | 
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  | [JavaScript](./algorithms/Remove%20Element/index.js) | Easy | 
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  | [JavaScript](./algorithms/Remove%20Duplicates%20from%20Sorted%20Array/index.js) | Easy | 
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  | Hard | 
