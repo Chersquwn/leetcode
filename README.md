@@ -6,6 +6,10 @@ LeetCode solutions with JavaScript
 
 | # | Title | Explanation | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 1093 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |  |  | Hard | 
+| 1092 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |  |  | Medium | 
+| 1087 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) |  |  | Medium | 
+| 1086 | [Divisor Game](https://leetcode.com/problems/divisor-game/) |  |  | Easy | 
 | 1081 | [Video Stitching](https://leetcode.com/problems/video-stitching/) |  |  | Medium | 
 | 1080 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) |  |  | Medium | 
 | 1079 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) |  |  | Easy | 
@@ -941,7 +945,7 @@ LeetCode solutions with JavaScript
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |  |  | Hard | 
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |  |  | Medium | 
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) |  |  | Medium | 
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) |  |  | Easy | 
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) |  | [JavaScript](./algorithms/Count%20and%20Say/index.js) | Easy | 
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |  |  | Hard | 
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  |  | Medium | 
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |  | [JavaScript](./algorithms/Search%20Insert%20Position/index.js) | Easy | 
