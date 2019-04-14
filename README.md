@@ -930,7 +930,7 @@ LeetCode solutions with JavaScript
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  |  | Medium | 
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  |  | Medium | 
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  |  | Medium | 
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  |  | Easy | 
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  | [JavaScript](./algorithms/Maximum%20Subarray/index.js) | Easy | 
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) |  |  | Hard | 
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) |  |  | Hard | 
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) |  |  | Medium | 
