@@ -925,7 +925,7 @@ LeetCode solutions with JavaScript
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) |  |  | Medium | 
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |  |  | Medium | 
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  |  | Medium | 
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |  |  | Easy | 
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |  | [JavaScript](./algorithms/Length%20of%20Last%20Word/index.js) | Easy | 
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) |  |  | Hard | 
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  |  | Medium | 
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  |  | Medium | 
