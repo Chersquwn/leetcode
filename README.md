@@ -914,7 +914,7 @@ LeetCode solutions with JavaScript
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) |  |  | Hard | 
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |  |  | Medium | 
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  |  | Easy | 
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |  |  | Easy | 
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |  | [JavaScript](./algorithms/Sqrt(x)/index.js) | Easy | 
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) |  |  | Hard | 
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) |  | [JavaScript](./algorithms/Add%20Binary/index.js) | Easy | 
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) |  | [JavaScript](./algorithms/Plus%20One/index.js) | Easy | 
