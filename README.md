@@ -913,7 +913,7 @@ LeetCode solutions with JavaScript
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  | Medium | 
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) |  |  | Hard | 
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |  |  | Medium | 
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  |  | Easy | 
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  | [JavaScript](./algorithms/Climbing%20Stairs/index.js) | Easy | 
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |  | [JavaScript](./algorithms/Sqrt(x)/index.js) | Easy | 
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) |  |  | Hard | 
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) |  | [JavaScript](./algorithms/Add%20Binary/index.js) | Easy | 
