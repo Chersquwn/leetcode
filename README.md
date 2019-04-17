@@ -123,6 +123,7 @@ LeetCode solutions with JavaScript
 | 951 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) |  |  | Medium | 
 | 950 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) |  |  | Easy | 
 | 949 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/) |  |  | Hard | 
+| 948 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  |  | Medium | 
 | 947 | [Online Election](https://leetcode.com/problems/online-election/) |  |  | Medium | 
 | 946 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) |  |  | Medium | 
 | 945 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) |  |  | Medium | 
@@ -900,7 +901,7 @@ LeetCode solutions with JavaScript
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) |  |  | Medium | 
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) |  |  | Hard | 
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |  |  | Hard | 
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |  |  | Easy | 
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |  | [JavaScript](./algorithms/Remove%20Duplicates%20from%20Sorted%20List/index.js) | Easy | 
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |  |  | Medium | 
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |  |  | Medium | 
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |  |  | Medium | 
