@@ -896,7 +896,7 @@ LeetCode solutions with JavaScript
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  | Medium | 
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) |  |  | Medium | 
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) |  |  | Medium | 
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |  |  | Easy | 
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |  | [JavaScript](./algorithms/Merge%20Sorted%20Array/index.js) | Easy | 
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) |  |  | Hard | 
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) |  |  | Medium | 
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) |  |  | Hard | 
