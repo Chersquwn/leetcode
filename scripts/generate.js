@@ -1,7 +1,6 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const EXPIRED = 30 * 24 * 60 * 60
 const API = 'https://leetcode.com/api/problems/algorithms/';
 const SOLUTION_Path = './algorithms/';
 let README_TMPL = `# LeetCode
@@ -14,29 +13,17 @@ LeetCode solutions with JavaScript
 |:---:|:---:|:---:|:---:|:---:|
 `;
 
-getProblems()
+fetchProblems()
   .then(problems => {
     return addSolutions(problems);
   })
   .then(problems => {
-    // generateReadme(problems);
+    generateReadme(problems);
   });
 
-function getProblems() {
-  try {
-    const stats = fs.statSync('../.cache/problem.js')
-
-    if (new Date() - new Date(stats.mtime) > EXPIRED) {
-      return fetchProblems()
-    }
-
-    return require('../.cache/problem')
-  } catch (error) {
-    return fetchProblems()
-  }
-}
 
 function fetchProblems() {
+  const time = Date.now()
   return axios.get(API).then(res => {
     const { stat_status_pairs } = res.data;
     const difficulty = ['', 'Easy', 'Medium', 'Hard'];
@@ -48,10 +35,6 @@ function fetchProblems() {
         difficulty: difficulty[item.difficulty.level]
       }))
       .sort((a, b) => b.id - a.id);
-
-    fs.mkdirSync('../.cache')
-    fs.writeFileSync('../.cache/problem.js', problems)
-
     return problems;
   });
 }
