@@ -6,6 +6,10 @@ LeetCode solutions with JavaScript
 
 | # | Title | Explanation | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 1097 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) |  |  | Hard | 
+| 1096 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) |  |  | Medium | 
+| 1095 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) |  |  | Easy | 
+| 1094 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) |  |  | Easy | 
 | 1093 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |  |  | Hard | 
 | 1092 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |  |  | Medium | 
 | 1087 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) |  |  | Medium | 
@@ -874,7 +878,7 @@ LeetCode solutions with JavaScript
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) |  |  | Medium | 
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  |  | Easy | 
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  |  | Easy | 
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  |  | Easy | 
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  | [JavaScript](./algorithms/Balanced%20Binary%20Tree/index.js) | Easy | 
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |  |  | Medium | 
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |  | [JavaScript](./algorithms/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/index.js) | Easy | 
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |  | [JavaScript](./algorithms/Binary%20Tree%20Level%20Order%20Traversal%20II/index.js) | Easy | 
