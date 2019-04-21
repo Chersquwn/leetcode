@@ -877,7 +877,7 @@ LeetCode solutions with JavaScript
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |  |  | Medium | 
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) |  |  | Medium | 
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  |  | Easy | 
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  |  | Easy | 
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  | [JavaScript](./algorithms/Minimum%20Depth%20of%20Binary%20Tree/index.js) | Easy | 
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  | [JavaScript](./algorithms/Balanced%20Binary%20Tree/index.js) | Easy | 
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |  |  | Medium | 
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |  | [JavaScript](./algorithms/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/index.js) | Easy | 
