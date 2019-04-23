@@ -869,7 +869,7 @@ LeetCode solutions with JavaScript
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |  |  | Easy | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  | Easy | 
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) |  |  | Medium | 
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  |  | Easy | 
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  | [JavaScript](./algorithms/Pascal's%20Triangle%20II/index.js) | Easy | 
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |  | [JavaScript](./algorithms/Pascal's%20Triangle/index.js) | Easy | 
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) |  |  | Medium | 
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  |  | Medium | 
