@@ -863,7 +863,7 @@ LeetCode solutions with JavaScript
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |  |  | Hard | 
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) |  |  | Medium | 
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) |  |  | Hard | 
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  |  | Easy | 
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  | [JavaScript](./algorithms/Valid%20Palindrome/index.js) | Easy | 
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |  |  | Hard | 
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  |  | Hard | 
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |  | [JavaScript](./algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/index.js) | Easy | 
