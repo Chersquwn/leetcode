@@ -852,7 +852,7 @@ LeetCode solutions with JavaScript
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) |  |  | Medium | 
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  | Medium | 
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |  |  | Medium | 
-| 136 | [Single Number](https://leetcode.com/problems/single-number/) |  |  | Easy | 
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) |  | [JavaScript](./algorithms/Single%20Number/index.js) | Easy | 
 | 135 | [Candy](https://leetcode.com/problems/candy/) |  |  | Hard | 
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) |  |  | Medium | 
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) |  |  | Medium | 
