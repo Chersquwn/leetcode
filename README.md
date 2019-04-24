@@ -866,7 +866,7 @@ LeetCode solutions with JavaScript
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  |  | Easy | 
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |  |  | Hard | 
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  |  | Hard | 
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |  |  | Easy | 
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |  | [JavaScript](./algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/index.js) | Easy | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  | [JavaScript](./algorithms/Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.js) | Easy | 
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) |  |  | Medium | 
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  | [JavaScript](./algorithms/Pascal's%20Triangle%20II/index.js) | Easy | 
