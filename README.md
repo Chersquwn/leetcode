@@ -847,7 +847,7 @@ LeetCode solutions with JavaScript
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  |  | Medium | 
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) |  |  | Medium | 
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |  |  | Medium | 
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  |  | Easy | 
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  | [JavaScript](./algorithms/Linked%20List%20Cycle/index.js) | Easy | 
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) |  |  | Hard | 
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) |  |  | Medium | 
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  | Medium | 
