@@ -833,7 +833,7 @@ LeetCode solutions with JavaScript
 | 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) |  |  | Hard | 
 | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) |  |  | Easy | 
 | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) |  |  | Medium | 
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) |  |  | Easy | 
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) |  | [JavaScript](./algorithms/Min%20Stack/index.js) | Easy | 
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |  |  | Hard | 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  |  | Medium | 
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |  |  | Medium | 
