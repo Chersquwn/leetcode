@@ -101,7 +101,7 @@ LeetCode solutions with JavaScript
 | 978 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) |  |  | Easy | 
 | 977 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) |  |  | Hard | 
 | 976 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) |  |  | Medium | 
-| 975 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |  |  | Medium | 
+| 975 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |  |  | Easy | 
 | 974 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) |  |  | Easy | 
 | 973 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) |  |  | Hard | 
 | 972 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) |  |  | Medium | 
@@ -828,7 +828,7 @@ LeetCode solutions with JavaScript
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) |  |  | Medium | 
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) |  |  | Medium | 
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) |  |  | Medium | 
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  |  | Easy | 
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  | [JavaScript](./algorithms/Intersection%20of%20Two%20Linked%20Lists/index.js) | Easy | 
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) |  |  | Hard | 
 | 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) |  |  | Hard | 
 | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) |  |  | Easy | 
