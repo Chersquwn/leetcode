@@ -821,7 +821,7 @@ LeetCode solutions with JavaScript
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) |  |  | Easy | 
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) |  |  | Easy | 
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |  |  | Easy | 
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |  |  | Easy | 
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |  | [JavaScript](./algorithms/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/index.js) | Easy | 
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |  |  | Medium | 
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |  |  | Medium | 
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) |  |  | Hard | 
