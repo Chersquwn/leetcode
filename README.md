@@ -819,7 +819,7 @@ LeetCode solutions with JavaScript
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |  |  | Easy | 
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |  |  | Easy | 
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) |  |  | Easy | 
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) |  |  | Easy | 
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) |  | [JavaScript](./algorithms/Majority%20Element/index.js) | Easy | 
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |  | [JavaScript](./algorithms/Excel%20Sheet%20Column%20Title/index.js) | Easy | 
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |  | [JavaScript](./algorithms/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/index.js) | Easy | 
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |  |  | Medium | 
