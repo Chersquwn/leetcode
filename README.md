@@ -6,6 +6,10 @@ LeetCode solutions with JavaScript
 
 | # | Title | Explanation | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 1106 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) |  |  | Hard | 
+| 1105 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) |  |  | Medium | 
+| 1104 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) |  |  | Medium | 
+| 1103 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) |  |  | Easy | 
 | 1097 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) |  |  | Hard | 
 | 1096 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) |  |  | Medium | 
 | 1095 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) |  |  | Easy | 
@@ -816,8 +820,8 @@ LeetCode solutions with JavaScript
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) |  |  | Medium | 
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) |  |  | Hard | 
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |  |  | Medium | 
-| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |  |  | Easy | 
-| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |  |  | Easy | 
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |  | [JavaScript](./algorithms/Factorial%20Trailing%20Zeroes/index.js) | Easy | 
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |  | [JavaScript](./algorithms/Excel%20Sheet%20Column%20Number/index.js) | Easy | 
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) |  |  | Easy | 
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) |  | [JavaScript](./algorithms/Majority%20Element/index.js) | Easy | 
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |  | [JavaScript](./algorithms/Excel%20Sheet%20Column%20Title/index.js) | Easy | 
