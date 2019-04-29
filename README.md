@@ -813,7 +813,7 @@ LeetCode solutions with JavaScript
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  |  | Easy | 
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  |  | Easy | 
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  |  | Easy | 
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |  |  | Easy | 
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |  | [JavaScript](./algorithms/Rotate%20Array/index.js) | Easy | 
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |  |  | Hard | 
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |  |  | Medium | 
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) |  |  | Medium | 
