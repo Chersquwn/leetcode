@@ -812,7 +812,7 @@ LeetCode solutions with JavaScript
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) |  |  | Medium | 
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  |  | Easy | 
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  |  | Easy | 
-| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  |  | Easy | 
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  | [JavaScript](./algorithms/Reverse%20Bits/index.js) | Easy | 
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |  | [JavaScript](./algorithms/Rotate%20Array/index.js) | Easy | 
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |  |  | Hard | 
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |  |  | Medium | 
