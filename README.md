@@ -811,7 +811,7 @@ LeetCode solutions with JavaScript
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |  |  | Medium | 
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) |  |  | Medium | 
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  |  | Easy | 
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  |  | Easy | 
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  | [JavaScript](./algorithms/Number%20of%201%20Bits/index.js) | Easy | 
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  | [JavaScript](./algorithms/Reverse%20Bits/index.js) | Easy | 
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |  | [JavaScript](./algorithms/Rotate%20Array/index.js) | Easy | 
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |  |  | Hard | 
