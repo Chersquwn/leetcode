@@ -810,7 +810,7 @@ LeetCode solutions with JavaScript
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |  |  | Medium | 
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |  |  | Medium | 
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) |  |  | Medium | 
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  |  | Easy | 
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  | [JavaScript](./algorithms/House%20Robber/index.js) | Easy | 
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  | [JavaScript](./algorithms/Number%20of%201%20Bits/index.js) | Easy | 
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  | [JavaScript](./algorithms/Reverse%20Bits/index.js) | Easy | 
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |  | [JavaScript](./algorithms/Rotate%20Array/index.js) | Easy | 
