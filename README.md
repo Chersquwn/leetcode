@@ -805,7 +805,7 @@ LeetCode solutions with JavaScript
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  |  | Easy | 
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |  |  | Easy | 
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) |  |  | Easy | 
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  |  | Easy | 
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  | [JavaScript](./algorithms/Remove%20Linked%20List%20Elements/index.js) | Easy | 
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  | [JavaScript](./algorithms/Happy%20Number/index.js) | Easy | 
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |  |  | Medium | 
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |  |  | Medium | 
