@@ -803,8 +803,8 @@ LeetCode solutions with JavaScript
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) |  |  | Medium | 
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) |  |  | Medium | 
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  |  | Easy | 
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |  |  | Easy | 
-| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) |  |  | Easy | 
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |  | [JavaScript](./algorithms/Isomorphic%20Strings/index.js) | Easy | 
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) |  | [JavaScript](./algorithms/Count%20Primes/index.js) | Easy | 
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  | [JavaScript](./algorithms/Remove%20Linked%20List%20Elements/index.js) | Easy | 
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  | [JavaScript](./algorithms/Happy%20Number/index.js) | Easy | 
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |  |  | Medium | 
