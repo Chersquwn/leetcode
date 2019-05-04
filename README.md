@@ -789,7 +789,7 @@ LeetCode solutions with JavaScript
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  |  | Medium | 
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) |  |  | Medium | 
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) |  |  | Medium | 
-| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) |  |  | Easy | 
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) |  | [JavaScript](./algorithms/Contains%20Duplicate%20II/index.js) | Easy | 
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) |  |  | Hard | 
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  | [JavaScript](./algorithms/Contains%20Duplicate/index.js) | Easy | 
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  |  | Medium | 
