@@ -791,7 +791,7 @@ LeetCode solutions with JavaScript
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) |  |  | Medium | 
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) |  |  | Easy | 
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) |  |  | Hard | 
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  |  | Easy | 
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  | [JavaScript](./algorithms/Contains%20Duplicate/index.js) | Easy | 
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  |  | Medium | 
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  | Medium | 
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) |  |  | Hard | 
