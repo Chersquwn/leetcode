@@ -786,7 +786,7 @@ LeetCode solutions with JavaScript
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |  |  | Medium | 
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  |  | Medium | 
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |  |  | Medium | 
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  |  | Easy | 
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  | [JavaScript](./algorithms/Invert%20Binary%20Tree/index.js) | Easy | 
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  | [JavaScript](./algorithms/Implement%20Stack%20using%20Queues/index.js) | Easy | 
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) |  |  | Hard | 
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) |  |  | Medium | 
