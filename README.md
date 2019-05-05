@@ -6,6 +6,10 @@ LeetCode solutions with JavaScript
 
 | # | Title | Explanation | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 1115 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) |  |  | Easy | 
+| 1114 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) |  |  | Medium | 
+| 1113 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) |  |  | Medium | 
+| 1111 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) |  |  | Medium | 
 | 1106 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) |  |  | Hard | 
 | 1105 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) |  |  | Medium | 
 | 1104 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) |  |  | Medium | 
@@ -783,7 +787,7 @@ LeetCode solutions with JavaScript
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  |  | Medium | 
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |  |  | Medium | 
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  |  | Easy | 
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  |  | Easy | 
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  | [JavaScript](./algorithms/Implement%20Stack%20using%20Queues/index.js) | Easy | 
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) |  |  | Hard | 
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) |  |  | Medium | 
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  |  | Medium | 
