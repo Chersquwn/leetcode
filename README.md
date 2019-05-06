@@ -777,7 +777,7 @@ LeetCode solutions with JavaScript
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  |  | Medium | 
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) |  |  | Easy | 
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  |  | Medium | 
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |  |  | Easy | 
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |  | [JavaScript](./algorithms/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/index.js) | Easy | 
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |  | [JavaScript](./algorithms/Palindrome%20Linked%20List/index.js) | Easy | 
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) |  |  | Hard | 
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |  | [JavaScript](./algorithms/Implement%20Queue%20using%20Stacks/index.js) | Easy | 
