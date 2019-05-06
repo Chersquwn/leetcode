@@ -781,7 +781,7 @@ LeetCode solutions with JavaScript
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |  |  | Easy | 
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) |  |  | Hard | 
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |  |  | Easy | 
-| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) |  |  | Easy | 
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) |  | [JavaScript](./algorithms/Power%20of%20Two/index.js) | Easy | 
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |  |  | Medium | 
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |  |  | Medium | 
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  |  | Medium | 
