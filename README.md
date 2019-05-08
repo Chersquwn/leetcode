@@ -750,7 +750,7 @@ LeetCode solutions with JavaScript
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  |  | Easy | 
 | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  |  | Hard | 
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) |  |  | Medium | 
-| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) |  |  | Easy | 
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) |  | [JavaScript](./algorithms/Ugly%20Number/index.js) | Easy | 
 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) |  |  | Medium | 
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) |  |  | Medium | 
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) |  |  | Medium | 
