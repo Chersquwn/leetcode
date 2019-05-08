@@ -745,7 +745,7 @@ LeetCode solutions with JavaScript
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |  |  | Medium | 
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) |  |  | Easy | 
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) |  |  | Hard | 
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) |  |  | Easy | 
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) |  | [JavaScript](./algorithms/Missing%20Number/index.js) | Easy | 
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) |  |  | Medium | 
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  |  | Easy | 
 | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  |  | Hard | 
