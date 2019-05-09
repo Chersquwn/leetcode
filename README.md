@@ -735,7 +735,7 @@ LeetCode solutions with JavaScript
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) |  |  | Medium | 
 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |  |  | Medium | 
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |  |  | Medium | 
-| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) |  |  | Easy | 
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) |  | [JavaScript](./algorithms/First%20Bad%20Version/index.js) | Easy | 
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) |  |  | Medium | 
 | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  |  | Easy | 
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) |  |  | Medium | 
