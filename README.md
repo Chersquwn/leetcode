@@ -730,7 +730,7 @@ LeetCode solutions with JavaScript
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) |  |  | Medium | 
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) |  |  | Medium | 
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) |  |  | Medium | 
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |  |  | Easy | 
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |  | [JavaScript](./algorithms/Move%20Zeroes/index.js) | Easy | 
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) |  |  | Hard | 
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) |  |  | Medium | 
 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |  |  | Medium | 
