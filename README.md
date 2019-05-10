@@ -687,7 +687,7 @@ LeetCode solutions with JavaScript
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |  |  | Hard | 
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) |  |  | Medium | 
 | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) |  |  | Hard | 
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |  |  | Easy | 
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |  | [JavaScript](./algorithms/Power%20of%20Three/index.js) | Easy | 
 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) |  |  | Medium | 
 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) |  |  | Medium | 
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |  |  | Medium | 
