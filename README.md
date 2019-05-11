@@ -668,7 +668,7 @@ LeetCode solutions with JavaScript
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) |  |  | Medium | 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  |  | Medium | 
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) |  |  | Easy | 
-| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |  |  | Easy | 
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |  | [JavaScript](./algorithms/Reverse%20Vowels%20of%20a%20String/index.js) | Easy | 
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | [JavaScript](./algorithms/Reverse%20String/index.js) | Easy | 
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/) |  |  | Medium | 
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) |  | [JavaScript](./algorithms/Power%20of%20Four/index.js) | Easy | 
