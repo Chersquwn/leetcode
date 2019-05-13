@@ -6,6 +6,10 @@ LeetCode solutions with JavaScript
 
 | # | Title | Explanation | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 1122 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) |  |  | Hard | 
+| 1121 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) |  |  | Medium | 
+| 1120 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) |  |  | Easy | 
+| 1119 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |  |  | Easy | 
 | 1115 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) |  |  | Easy | 
 | 1114 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) |  |  | Medium | 
 | 1113 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) |  |  | Medium | 
@@ -664,7 +668,7 @@ LeetCode solutions with JavaScript
 | 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) |  |  | Hard | 
 | 351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) |  |  | Medium | 
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |  |  | Easy | 
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  |  | Easy | 
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  | [JavaScript](./algorithms/Intersection%20of%20Two%20Arrays/index.js) | Easy | 
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) |  |  | Medium | 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  |  | Medium | 
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) |  |  | Easy | 
