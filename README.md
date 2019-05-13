@@ -667,7 +667,7 @@ LeetCode solutions with JavaScript
 | 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) |  |  | Medium | 
 | 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) |  |  | Hard | 
 | 351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) |  |  | Medium | 
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |  |  | Easy | 
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |  | [JavaScript](./algorithms/Intersection%20of%20Two%20Arrays%20II/index.js) | Easy | 
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  | [JavaScript](./algorithms/Intersection%20of%20Two%20Arrays/index.js) | Easy | 
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) |  |  | Medium | 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  |  | Medium | 
