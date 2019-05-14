@@ -650,7 +650,7 @@ LeetCode solutions with JavaScript
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) |  |  | Medium | 
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) |  |  | Medium | 
 | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) |  |  | Medium | 
-| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |  |  | Easy | 
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |  | [JavaScript](./algorithms/Valid%20Perfect%20Square/index.js) | Easy | 
 | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) |  |  | Medium | 
 | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) |  |  | Medium | 
 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) |  |  | Medium | 
