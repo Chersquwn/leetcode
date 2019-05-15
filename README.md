@@ -727,7 +727,7 @@ LeetCode solutions with JavaScript
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) |  |  | Easy | 
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) |  |  | Easy | 
 | 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) |  |  | Hard | 
-| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |  |  | Easy | 
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |  | [JavaScript](./algorithms/Word%20Pattern/index.js) | Easy | 
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) |  |  | Medium | 
 | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) |  |  | Medium | 
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |  |  | Medium | 
