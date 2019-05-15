@@ -646,7 +646,7 @@ LeetCode solutions with JavaScript
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |  |  | Easy | 
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) |  |  | Medium | 
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow/) |  |  | Medium | 
-| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |  |  | Easy | 
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |  | [JavaScript](./algorithms/Sum%20of%20Two%20Integers/index.js) | Easy | 
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) |  |  | Medium | 
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) |  |  | Medium | 
 | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) |  |  | Medium | 
