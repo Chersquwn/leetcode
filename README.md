@@ -634,7 +634,7 @@ LeetCode solutions with JavaScript
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) |  |  | Medium | 
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) |  |  | Medium | 
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) |  |  | Medium | 
-| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |  |  | Easy | 
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |  | [JavaScript](./algorithms/Ransom%20Note/index.js) | Easy | 
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) |  |  | Medium | 
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |  |  | Hard | 
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |  |  | Medium | 
