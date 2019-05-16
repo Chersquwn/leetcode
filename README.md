@@ -725,7 +725,7 @@ LeetCode solutions with JavaScript
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  | Hard | 
 | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) |  |  | Medium | 
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) |  |  | Easy | 
-| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) |  |  | Easy | 
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) |  | [JavaScript](./algorithms/Nim%20Game/index.js) | Easy | 
 | 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) |  |  | Hard | 
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |  | [JavaScript](./algorithms/Word%20Pattern/index.js) | Easy | 
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) |  |  | Medium | 
