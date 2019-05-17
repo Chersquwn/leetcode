@@ -630,7 +630,7 @@ LeetCode solutions with JavaScript
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/) |  |  | Medium | 
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |  |  | Easy | 
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) |  |  | Medium | 
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |  |  | Easy | 
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |  | [JavaScript](./algorithms/First%20Unique%20Character%20in%20a%20String/index.js) | Easy | 
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) |  |  | Medium | 
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) |  |  | Medium | 
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) |  |  | Medium | 
