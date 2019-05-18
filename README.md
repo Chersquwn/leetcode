@@ -628,7 +628,7 @@ LeetCode solutions with JavaScript
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |  |  | Medium | 
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) |  |  | Hard | 
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/) |  |  | Medium | 
-| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |  |  | Easy | 
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |  | [JavaScript](./algorithms/Find%20the%20Difference/index.js) | Easy | 
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) |  |  | Medium | 
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |  | [JavaScript](./algorithms/First%20Unique%20Character%20in%20a%20String/index.js) | Easy | 
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) |  |  | Medium | 
