@@ -6,6 +6,14 @@ LeetCode solutions with JavaScript
 
 | # | Title | Explanation | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
+| 1140 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) |  |  | Medium | 
+| 1139 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) |  |  | Medium | 
+| 1138 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) |  |  | Medium | 
+| 1137 | [Height Checker](https://leetcode.com/problems/height-checker/) |  |  | Easy | 
+| 1130 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) |  |  | Medium | 
+| 1129 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |  |  | Medium | 
+| 1128 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  |  | Easy | 
+| 1127 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) |  |  | Easy | 
 | 1122 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) |  |  | Hard | 
 | 1121 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) |  |  | Medium | 
 | 1120 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) |  |  | Easy | 
@@ -613,11 +621,11 @@ LeetCode solutions with JavaScript
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) |  |  | Hard | 
 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) |  |  | Medium | 
 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |  |  | Easy | 
-| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |  |  | Easy | 
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |  | [JavaScript](./algorithms/Sum%20of%20Left%20Leaves/index.js) | Easy | 
 | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) |  |  | Hard | 
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) |  |  | Medium | 
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) |  |  | Easy | 
-| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) |  |  | Easy | 
+| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) |  | [JavaScript](./algorithms/Nth%20Digit/index.js) | Easy | 
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) |  |  | Medium | 
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) |  |  | Medium | 
 | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) |  |  | Medium | 
