@@ -616,7 +616,7 @@ LeetCode solutions with JavaScript
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |  |  | Easy | 
 | 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) |  |  | Hard | 
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) |  |  | Hard | 
-| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |  |  | Easy | 
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |  | [JavaScript](./algorithms/Longest%20Palindrome/index.js) | Easy | 
 | 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) |  |  | Easy | 
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) |  |  | Hard | 
 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) |  |  | Medium | 
