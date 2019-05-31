@@ -611,7 +611,7 @@ LeetCode solutions with JavaScript
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |  |  | Medium | 
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) |  |  | Medium | 
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) |  |  | Easy | 
-| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) |  |  | Easy | 
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) |  | [JavaScript](./algorithms/Third%20Maximum%20Number/index.js) | Easy | 
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |  |  | Medium | 
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |  |  | Easy | 
 | 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) |  |  | Hard | 
